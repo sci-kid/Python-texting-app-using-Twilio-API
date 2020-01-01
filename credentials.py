@@ -1,4 +1,4 @@
-account_sid = 'ACb2cfb867710e432688c4aba15478fcda'
-auth_token = '5147dddc8fdf02ba0eb5271843ac779c'
-my_cell = '+380978334032'
-my_twilio = '+16025985388'
+account_sid = 'hidden_account_sid'
+auth_token = 'hidden_auth_token'
+my_cell = '  +380971234567'
+my_twilio = '+160212345678'
